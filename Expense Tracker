@@ -1,6 +1,0 @@
-Steps to do the task:
-1. Copy the data.
-2. Paste in excel and select the cell and go to data →  data tool → select text to column.
-3. Choose Delimited → Click Next ,Select Space as the delimiter and click Finish. This will separate the words into columns.
-4. Select values to change to table format.
-4. Did all alignments to replicate the document and SUM function is used for adding all expenses.
